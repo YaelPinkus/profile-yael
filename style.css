@@ -44,7 +44,7 @@ a:hover {
 }
 
 .card-white {
-	background: #F7FBFF;
+	background: white;
 	padding: 20px;
 	box-shadow: 0px 5px 5px rgba(0,0,0,0.1);
 	border-radius: 2px;
